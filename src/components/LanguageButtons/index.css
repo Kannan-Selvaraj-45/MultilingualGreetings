@@ -1,0 +1,25 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  width: 330px;
+  list-style-type: none;
+}
+.button {
+  width: 85px;
+  padding: 7px;
+  border-style: solid;
+  border-radius: 15px;
+  color: #db1c48;
+  border-color: #db1c48;
+  background-color: #ffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.custom-button {
+  color: #ffff;
+  border-width: 0;
+  background-color: #db1c48;
+}
